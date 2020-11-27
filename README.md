@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuwan Prasad Upadhyay</h1>
 <h3 align="center">Team Player | Senior Software Engineer</h3>
 
-- 📝 I regulary write articles on [zbytes](https://medium.com/zbytes) or [https://bhuwanupadhyay.github.io](https://bhuwanupadhyay.github.io)
+- 📝 I regulary write articles on [zbytes](https://medium.com/zbytes) or [bhuwanupadhyay](https://bhuwanupadhyay.github.io)
 
 - 💬 Ask me about **microservices, ddd, event-driven, cloud-native, kubernetes, docker, java, spring-boot, angular**
 
