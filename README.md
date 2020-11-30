@@ -16,3 +16,19 @@
 <a href="https://stackoverflow.com/users/2741462" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2741462" height="30" width="40" /></a>
 <a href="https://fb.com/developerbhuwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="developerbhuwan" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/BhuwanUpadhyay?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanUpadhyay&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/BhuwanUpadhyay?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=BhuwanUpadhyay&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
