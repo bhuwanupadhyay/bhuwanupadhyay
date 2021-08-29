@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuwan Prasad Upadhyay</h1>
-<h3 align="center">Team Player | Senior Software Engineer</h3>
+<h3 align="center">CS Researcher & Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/BhuwanUpadhyay?tab=repositories">
