@@ -18,7 +18,7 @@
 </p>
 
 
-- 📝 I regulary write articles on [zbytes](https://medium.com/zbytes) or [bhuwanupadhyay](https://bhuwanupadhyay.github.io)
+- 📝 I regulary write articles on [bhuwanupadhyay](https://bhuwanupadhyay.github.io)
 
 - 💬 Ask me about **microservices, ddd, event-driven, cloud-native, kubernetes, docker, java, spring-boot, angular**
 
