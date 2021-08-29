@@ -20,7 +20,7 @@
 
 - 📝 I regulary write articles on [bhuwanupadhyay](https://bhuwanupadhyay.github.io)
 
-- 💬 Ask me about **microservices, ddd, event-driven, cloud-native, kubernetes, docker, java, spring-boot, angular**
+- 💬 Ask me about **microservices, ddd, event-driven, cloud-native, blockchain, kubernetes, docker, java, spring-boot, angular**
 
 - 📫 How to reach me **bhuwan.upadhyay49@gmail.com**
 
