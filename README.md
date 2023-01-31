@@ -18,13 +18,13 @@
 </p>
 
 
-- 📝 I regulary write articles on [bhuwanupadhyay](https://bhuwanupadhyay.github.io)
+- 📝 I regulary write articles on [bhuwanupadhyay](https://blog.bhuwanupadhyay.com)
 
 - 💬 Ask me about **microservices, ddd, event-driven, cloud-native, blockchain, kubernetes, docker, java, spring-boot, angular**
 
 - 📫 How to reach me **bhuwan.upadhyay49@gmail.com**
 
-- 📄 Know about my experiences [https://bhuwanupadhyay.github.io/cv/](https://bhuwanupadhyay.github.io/cv/)
+- 📄 Know about me [https://bhuwanupadhyay.com/](https://bhuwanupadhyay.com/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
