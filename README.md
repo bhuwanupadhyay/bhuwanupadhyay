@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **microservices, ddd, event-driven, cloud-native, kubernetes, docker, java, spring-boot, angular, react**
 
-- 📫 How to reach me **bhuwan.upadhyay49@gmail.com**
+- 📫 How to reach me **hi@bhuwanupadhyay.com**
 
 - 📄 Know about me [https://bhuwanupadhyay.com/about](https://bhuwanupadhyay.com/about)
 
